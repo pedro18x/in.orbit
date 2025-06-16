@@ -94,10 +94,3 @@ npm run dev
 
 
 
-
-
-<div align="center">
-  
-**Desenvolvido com 💜 durante o NLW Pocket da [Rocketseat](https://www.rocketseat.com.br/)**
-
-</div>
